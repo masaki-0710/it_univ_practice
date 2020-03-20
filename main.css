@@ -1,0 +1,10 @@
+body{
+color:purple;
+}
+#mainCanvas {
+	width: 300px;
+	height: 300px;
+	border: solid 5px pink;
+}
+
+
